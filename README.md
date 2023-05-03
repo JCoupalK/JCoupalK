@@ -1,16 +1,14 @@
-### Hi there 👋
+### Developer on my own time 💻
+ - You will be able to see some of my independent projects.
+### System Administrator professionally ⚙️
+ - My projects are mostly tied to automating system administrator tasks.
+### COO of KeepSec Technologies ☁️
+ - I publish some of the tools I make for KeepSec on our public GitHub.
+### Highly passionate in IT and new technologies 💡
+ - I won't stop talking about it!
+### Big emphasize on automatisation 🤖
+- Definitely what I love the most.
 
-<!--
-**JCoupalK/JCoupalK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 You can reach me at [jcoupal@keepsec.ca](mailto:jcoupal@keepsec.ca).
+### 🌐 Check out my [personal website](https://jcoupal.com/) for more information about me and my work.
+### 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-coupal-222773225/) to learn more about my professional experience. 
