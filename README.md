@@ -1,5 +1,7 @@
 ### Developer on my own time 💻
  - You will be able to see some of my independent projects.
+ - Mainly in Bash, Go and C#.
+ - Sometimes PowerShell and Python.
 ### System Administrator professionally ⚙️
  - My projects are mostly tied to automating system administrator tasks.
 ### COO of KeepSec Technologies ☁️
