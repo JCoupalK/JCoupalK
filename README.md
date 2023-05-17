@@ -8,7 +8,7 @@
  - I publish some of the tools I make for KeepSec on our public GitHub.
 ### Highly passionate in IT and new technologies 💡
  - I won't stop talking about it!
-### Big emphasize on automatisation 🤖
+### Big emphasize on automation 🤖
 - Definitely what I love the most.
 
 ### 📫 You can reach me at [jcoupal@keepsec.ca](mailto:jcoupal@keepsec.ca).
