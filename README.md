@@ -1,4 +1,4 @@
-### Developer on my own time 💻
+### Developing tools 💻
  - You will be able to see some of my independent projects.
  - Mainly in Bash, Go and C#.
  - Sometimes PowerShell and Python.
