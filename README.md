@@ -1,7 +1,7 @@
 ### Developing tools 💻
  - You will be able to see some of my independent projects.
- - Mainly in Bash, Go and C#.
- - Sometimes PowerShell and Python.
+ - Mainly in Bash and Go.
+ - Sometimes PowerShell, C# and Python.
 ### COO of KeepSec Technologies ☁️
  - I publish some of the tools I make for KeepSec on our public GitHub.
 ### Highly passionate in IT and new technologies 💡
