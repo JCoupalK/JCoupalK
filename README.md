@@ -1,6 +1,6 @@
 ### 💻 You will be able to see some of my independent projects.
- - Mainly in Bash and Go.
- - Sometimes PowerShell, C# (Unity) and Python.
+ - Mainly in Go and Bash.
+ - Sometimes PowerShell, Python and C# (Unity).
 ### ☁️ I publish some of the tools I make for [KeepSec](https://www.keepsec.ca) on our public [GitHub](https://github.com/KeepSec-Technologies).
 ### 🖼️ Pixel artist on my spare time.
 ### 📫 You can reach me via email at [jcoupal@keepsec.ca](mailto:jcoupal@keepsec.ca) or [jordan@jcoupal.com](mailto:jordan@jcoupal.com).
